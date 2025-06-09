@@ -19,11 +19,10 @@
 </p>
 
 ---
-
-<h3 align="left">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kodurisaivishnu&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kodurisaivishnu&show_icons=true&theme=default" alt="kodurisaivishnu's GitHub stats" />
 </p>
 
 <p align="left">
