@@ -57,11 +57,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kodurisaivishnu&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
 </p>
 
----
-
-### ☕ Support
-
-If you find my work helpful or inspiring, consider supporting:
-
-- ⭐️ Star the [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/rahuldkjain) – for the tool creator
