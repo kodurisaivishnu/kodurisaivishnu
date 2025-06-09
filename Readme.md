@@ -9,8 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/koduri saivishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koduri saivishnu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/koduri-sai-vishnu-780b2923b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koduri-sai-vishnu-780b2923b" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/educationalneeds1283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="educationalneeds1283" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ksv-1288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ksv-1288" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kodurisaxytp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kodurisaxytp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
