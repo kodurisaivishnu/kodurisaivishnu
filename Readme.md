@@ -1,47 +1,67 @@
-<h1 align="center">Hi 👋, I'm KODURI SAI VISHNU</h1>
-
-<h3 align="center">🚀 Passionate CS student (CGPA 9.33/10) with strong DSA & Full-Stack MERN expertise. Proficient in Java, Python, JavaScript, and SQL. Skilled in scalable app development, REST APIs, WebSockets, JWT, and Data Visualization. Active in Competitive Programming & Open Source 🚀</h3>
+<h1 align="center">Hi 👋, I'm Koduri Sai Vishnu</h1>
+<h3 align="center">
+    💻 Computer Science Student | 💡 Full-Stack Developer | 🧠 DSA Enthusiast | 📊 Data Explorer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kodurisaivishnu&label=Profile%20views&color=0e75b6&style=flat" alt="kodurisaivishnu" />
+  <img src="https://komarev.com/ghpvc/?username=kodurisaivishnu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-- 🔭 I’m currently working on [Emotion-Aware Microservices Project](https://github.com/kodurisaivishnu/Emotion-Learning-Microservice)
-- 🤝 Looking to collaborate on **Research-oriented Dev Projects**
-- 📫 How to reach me: **kodurisaivishnu@gmail.com**
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/kodurisaivishnu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+### 🧑‍💻 About Me
+
+- 🎓 I'm currently pursuing **B.Tech in Computer Science** with a **CGPA of 9.33/10**.
+- 🌱 I specialize in **DSA**, **MERN stack development**, and **microservices architecture**.
+- 🔭 Currently working on: [Emotion-Aware Learning Platform](https://github.com/kodurisaivishnu/Emotion-Learning-Microservice)
+- 🤝 I’m open to **collaborating on research-focused and real-world development projects**.
+- 💬 Ask me about anything in **Java, Python, JavaScript, SQL**, or system design.
+- ⚡ Fun Fact: I love **competitive programming** and contributing to **open source**.
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/koduri-sai-vishnu-780b2923b" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/c/educationalneeds1283" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30"/>
   </a>
   <a href="https://www.leetcode.com/ksv-1288" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/kodurisaxytp" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="30" height="30"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+### 🛠️ Tech Stack
+
+- **Languages**: Java, Python, JavaScript, C, C++, SQL, PHP
+- **Frontend**: React, Redux, Tailwind CSS, Bootstrap, HTML, CSS
+- **Backend**: Node.js, Express.js, Flask, Firebase, Java Spring Boot
+- **Database**: MongoDB, MySQL, PostgreSQL, SQLite, MSSQL
+- **DevOps & Cloud**: Docker, Kubernetes, NGINX, AWS, GCP, Jenkins
+- **Tools**: Git, GitHub, Postman, VSCode, Figma, Blender
+- **ML & Data Science**: NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, OpenCV
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <!-- Add only key tech icons to keep it clean -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kodurisaivishnu&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kodurisaivishnu&show_icons=true&theme=default&locale=en" alt="kodurisaivishnu" />
-</p>
+### ☕ Support
+
+If you find my work helpful or inspiring, consider supporting:
+
+- ⭐️ Star the [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/rahuldkjain) – for the tool creator
